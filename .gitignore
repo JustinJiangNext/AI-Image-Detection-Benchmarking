@@ -2,3 +2,4 @@ CIFAKE
 STABLEDIFFUSION
 weights
 __pycache__
+.DS_Store
